@@ -1,10 +1,5 @@
 <h1>Hello, how can I help you? <img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/master/assets/wave.gif" width="30px" alt=""></h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=2FvLuckyyy&style=flat-square)
-[![wakatime](https://wakatime.com/badge/user/be06b61a-5ca7-4757-935e-de4cffac7ac7.svg)](https://wakatime.com/@be06b61a-5ca7-4757-935e-de4cffac7ac7)
-
-# Simple Statistic Graph 📗
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2054%20mins-blue)
 
