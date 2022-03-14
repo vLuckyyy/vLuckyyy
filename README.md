@@ -2,7 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=2FvLuckyyy&style=flat-square)
 [![wakatime](https://wakatime.com/badge/user/be06b61a-5ca7-4757-935e-de4cffac7ac7.svg)](https://wakatime.com/@be06b61a-5ca7-4757-935e-de4cffac7ac7)
-![Code Time](http://img.shields.io/badge/Code%20Time-1984%20hrs%2025%20mins-blue)
 
 # Simple Statistic Graph 📗
 
