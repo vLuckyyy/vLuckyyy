@@ -50,6 +50,7 @@ YAML                     40 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Last Updated on 14/03/2022 00:41:46 UTC
 <!--END_SECTION:waka-->
 
+# Recent Github Activity ⚡
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#101](https://github.com/EternalCodeTeam/EternalCore/pull/101) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 2. 🗣 Commented on [#100](https://github.com/EternalCodeTeam/EternalCore/issues/100) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
