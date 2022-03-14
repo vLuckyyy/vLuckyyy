@@ -7,6 +7,9 @@
 # Simple Statistic Graph 📗
 <img alt="bastianleicht Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vLuckyyy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <details>
     <summary>:zap: Github Stats</summary>
     <pre>
