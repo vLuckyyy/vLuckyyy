@@ -5,7 +5,6 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-1984%20hrs%2025%20mins-blue)
 
 # Simple Statistic Graph 📗
-<img alt="bastianleicht Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vLuckyyy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
