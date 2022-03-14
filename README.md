@@ -11,6 +11,11 @@
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#101](https://github.com/EternalCodeTeam/EternalCore/pull/101) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 🗣 Commented on [#100](https://github.com/EternalCodeTeam/EternalCore/issues/100) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. 🎉 Merged PR [#99](https://github.com/EternalCodeTeam/EternalCore/pull/99) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. 🎉 Merged PR [#98](https://github.com/EternalCodeTeam/EternalCore/pull/98) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. 🎉 Merged PR [#95](https://github.com/EternalCodeTeam/EternalCore/pull/95) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->
 
 <details>
