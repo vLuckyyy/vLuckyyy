@@ -58,32 +58,3 @@ YAML                     40 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 4. 🎉 Merged PR [#98](https://github.com/EternalCodeTeam/EternalCore/pull/98) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 5. 🎉 Merged PR [#95](https://github.com/EternalCodeTeam/EternalCore/pull/95) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->
-
-<details>
-    <summary>:zap: Github Stats</summary>
-    <pre>
-        <img alt="GitHub Stats" src="https://github-readme-stats-new-bastianleicht.vercel.app/api?username=vLuckyyy&show_icons=true&theme=dark" />
-    </pre>
-</details>
-
-<details>
-    <summary>:zap: Code Activity</summary>
-    <pre>
-        <img alt="Code activity" src="https://wakatime.com/share/@vLucky/5eba7dfb-2191-4579-b5ce-a4ef155bca00.svg" height="400" />    
-    </pre>
-</details>
-
-<details>
-    <summary>:zap: Languages </summary>
-    <pre>
-        <img alt="Languages used" src="https://wakatime.com/share/@vLucky/af946242-eeb7-4b8f-81ca-8e39ed492348.svg" height="400" />
-    </pre>
-</details>
-
-
-<details>
-    <summary>:zap: GitHub Trophy</summary>
-    <pre>
-        <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vLuckyyy" alt="bastianleicht" /></a> </p>
-    </pre>
-</details>
