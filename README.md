@@ -1,11 +1,9 @@
 <h1>Hello, how can I help you? <img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/master/assets/wave.gif" width="30px" alt=""></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%203%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 410 Contributions in the Year 2022
+> 🏆 416 Contributions in the Year 2022
  > 
 > 📦 244.1 kB Used in GitHub's Storage 
  > 
@@ -18,10 +16,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    31 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.94% 
-🌆 Daytime    208 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.43% 
-🌃 Evening    203 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.79% 
-🌙 Night      345 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.84%
+🌞 Morning    31 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.93% 
+🌆 Daytime    208 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.4% 
+🌃 Evening    207 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.27% 
+🌙 Night      342 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.4%
 
 ```
 
@@ -41,7 +39,7 @@ YAML                     42 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 16/03/2022 19:26:31 UTC
+ Last Updated on 17/03/2022 00:17:18 UTC
 <!--END_SECTION:waka-->
 
 # Recent Github Activity ⚡
