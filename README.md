@@ -46,9 +46,9 @@ CSS                      36 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 # Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/EternalCodeTeam/EternalCheck/pull/2) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
-2. 🎉 Merged PR [#4](https://github.com/EternalCodeTeam/EternalCheck/pull/4) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
-3. ❗️ Closed issue [#100](https://github.com/EternalCodeTeam/EternalCore/issues/100) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. 🎉 Merged PR [#101](https://github.com/EternalCodeTeam/EternalCore/pull/101) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. 🗣 Commented on [#100](https://github.com/EternalCodeTeam/EternalCore/issues/100) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 🎉 Merged PR [#17](https://github.com/EternalCodeTeam/PluginTemplate/pull/17) in [EternalCodeTeam/PluginTemplate](https://github.com/EternalCodeTeam/PluginTemplate)
+2. 🎉 Merged PR [#18](https://github.com/EternalCodeTeam/PluginTemplate/pull/18) in [EternalCodeTeam/PluginTemplate](https://github.com/EternalCodeTeam/PluginTemplate)
+3. 🎉 Merged PR [#2](https://github.com/EternalCodeTeam/EternalCheck/pull/2) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
+4. 🎉 Merged PR [#4](https://github.com/EternalCodeTeam/EternalCheck/pull/4) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
+5. ❗️ Closed issue [#100](https://github.com/EternalCodeTeam/EternalCore/issues/100) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->
