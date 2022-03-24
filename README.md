@@ -46,9 +46,9 @@ Kotlin                   46 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 # Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#103](https://github.com/EternalCodeTeam/EternalCore/pull/103) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. 🎉 Merged PR [#17](https://github.com/EternalCodeTeam/PluginTemplate/pull/17) in [EternalCodeTeam/PluginTemplate](https://github.com/EternalCodeTeam/PluginTemplate)
-3. 🎉 Merged PR [#18](https://github.com/EternalCodeTeam/PluginTemplate/pull/18) in [EternalCodeTeam/PluginTemplate](https://github.com/EternalCodeTeam/PluginTemplate)
-4. 🎉 Merged PR [#2](https://github.com/EternalCodeTeam/EternalCheck/pull/2) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
-5. 🎉 Merged PR [#4](https://github.com/EternalCodeTeam/EternalCheck/pull/4) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
+1. 🎉 Merged PR [#104](https://github.com/EternalCodeTeam/EternalCore/pull/104) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 🎉 Merged PR [#103](https://github.com/EternalCodeTeam/EternalCore/pull/103) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. 🎉 Merged PR [#17](https://github.com/EternalCodeTeam/PluginTemplate/pull/17) in [EternalCodeTeam/PluginTemplate](https://github.com/EternalCodeTeam/PluginTemplate)
+4. 🎉 Merged PR [#18](https://github.com/EternalCodeTeam/PluginTemplate/pull/18) in [EternalCodeTeam/PluginTemplate](https://github.com/EternalCodeTeam/PluginTemplate)
+5. 🎉 Merged PR [#2](https://github.com/EternalCodeTeam/EternalCheck/pull/2) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
 <!--END_SECTION:activity-->
