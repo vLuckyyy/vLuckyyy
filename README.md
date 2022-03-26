@@ -1,8 +1,6 @@
 <h1>Hello, how can I help you? <img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/master/assets/wave.gif" width="30px" alt=""></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2030%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 478 Contributions in the Year 2022
@@ -41,7 +39,7 @@ JSON                     55 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 25/03/2022 18:07:38 UTC
+ Last Updated on 26/03/2022 00:17:49 UTC
 <!--END_SECTION:waka-->
 
 # Recent Github Activity ⚡
