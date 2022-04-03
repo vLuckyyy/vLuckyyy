@@ -1,9 +1,11 @@
 <h1>Hello, how can I help you? <img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/master/assets/wave.gif" width="30px" alt=""></h1>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%206%20mins-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 561 Contributions in the Year 2022
+> 🏆 564 Contributions in the Year 2022
  > 
 > 📦 248.1 kB Used in GitHub's Storage 
  > 
@@ -30,16 +32,16 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-JavaScript               10 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.54% 
-Java                     9 hrs 32 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.74% 
-Kotlin                   1 hr 27 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.36% 
-HTML                     19 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.44% 
-Groovy                   11 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.87%
+Java                     11 hrs 1 min        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.96% 
+JavaScript               6 hrs 3 mins        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.22% 
+Kotlin                   1 hr 56 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.7% 
+HTML                     19 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.64% 
+Groovy                   13 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.09%
 
 ```
 
 
- Last Updated on 03/04/2022 00:19:16 UTC
+ Last Updated on 03/04/2022 06:25:11 UTC
 <!--END_SECTION:waka-->
 
 # Recent Github Activity ⚡
