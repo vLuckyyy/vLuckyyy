@@ -46,9 +46,9 @@ Markdown                 11 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 # Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#63](https://github.com/EternalCodeTeam/EternalCore/issues/63) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. 🎉 Merged PR [#10](https://github.com/EternalCodeTeam/KaskadaSoftware/pull/10) in [EternalCodeTeam/KaskadaSoftware](https://github.com/EternalCodeTeam/KaskadaSoftware)
-3. 🎉 Merged PR [#104](https://github.com/EternalCodeTeam/EternalCore/pull/104) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. 🎉 Merged PR [#103](https://github.com/EternalCodeTeam/EternalCore/pull/103) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. 🎉 Merged PR [#17](https://github.com/EternalCodeTeam/PluginTemplate/pull/17) in [EternalCodeTeam/PluginTemplate](https://github.com/EternalCodeTeam/PluginTemplate)
+1. 💪 Opened PR [#106](https://github.com/EternalCodeTeam/EternalCore/pull/106) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. ❗️ Closed issue [#63](https://github.com/EternalCodeTeam/EternalCore/issues/63) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. 🎉 Merged PR [#10](https://github.com/EternalCodeTeam/KaskadaSoftware/pull/10) in [EternalCodeTeam/KaskadaSoftware](https://github.com/EternalCodeTeam/KaskadaSoftware)
+4. 🎉 Merged PR [#104](https://github.com/EternalCodeTeam/EternalCore/pull/104) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. 🎉 Merged PR [#103](https://github.com/EternalCodeTeam/EternalCore/pull/103) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->
