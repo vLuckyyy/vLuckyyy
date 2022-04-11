@@ -46,9 +46,9 @@ JavaScript               12 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 # Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#109](https://github.com/EternalCodeTeam/EternalCore/pull/109) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. 🎉 Merged PR [#107](https://github.com/EternalCodeTeam/EternalCore/pull/107) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. 🎉 Merged PR [#106](https://github.com/EternalCodeTeam/EternalCore/pull/106) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. ❌ Closed PR [#105](https://github.com/EternalCodeTeam/EternalCore/pull/105) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. 💪 Opened PR [#106](https://github.com/EternalCodeTeam/EternalCore/pull/106) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. ❗️ Closed issue [#108](https://github.com/EternalCodeTeam/EternalCore/issues/108) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. ❗️ Closed issue [#71](https://github.com/EternalCodeTeam/EternalCore/issues/71) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. 🎉 Merged PR [#109](https://github.com/EternalCodeTeam/EternalCore/pull/109) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. 🎉 Merged PR [#107](https://github.com/EternalCodeTeam/EternalCore/pull/107) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. 🎉 Merged PR [#106](https://github.com/EternalCodeTeam/EternalCore/pull/106) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->
