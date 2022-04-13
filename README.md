@@ -46,9 +46,9 @@ Properties               14 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 # Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#108](https://github.com/EternalCodeTeam/EternalCore/issues/108) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. ❗️ Closed issue [#71](https://github.com/EternalCodeTeam/EternalCore/issues/71) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. 🎉 Merged PR [#109](https://github.com/EternalCodeTeam/EternalCore/pull/109) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. 🎉 Merged PR [#107](https://github.com/EternalCodeTeam/EternalCore/pull/107) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. 🎉 Merged PR [#106](https://github.com/EternalCodeTeam/EternalCore/pull/106) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 🎉 Merged PR [#110](https://github.com/EternalCodeTeam/EternalCore/pull/110) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 💪 Opened PR [#110](https://github.com/EternalCodeTeam/EternalCore/pull/110) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. ❗️ Closed issue [#108](https://github.com/EternalCodeTeam/EternalCore/issues/108) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. ❗️ Closed issue [#71](https://github.com/EternalCodeTeam/EternalCore/issues/71) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. 🎉 Merged PR [#109](https://github.com/EternalCodeTeam/EternalCore/pull/109) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->
