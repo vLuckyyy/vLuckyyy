@@ -46,9 +46,9 @@ Properties               31 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 # Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/Incendo/awesome-minecraft/issues/36) in [Incendo/awesome-minecraft](https://github.com/Incendo/awesome-minecraft)
-2. 🎉 Merged PR [#110](https://github.com/EternalCodeTeam/EternalCore/pull/110) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. 💪 Opened PR [#110](https://github.com/EternalCodeTeam/EternalCore/pull/110) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. ❗️ Closed issue [#108](https://github.com/EternalCodeTeam/EternalCore/issues/108) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. ❗️ Closed issue [#71](https://github.com/EternalCodeTeam/EternalCore/issues/71) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 🎉 Merged PR [#112](https://github.com/EternalCodeTeam/EternalCore/pull/112) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. ❗️ Opened issue [#36](https://github.com/Incendo/awesome-minecraft/issues/36) in [Incendo/awesome-minecraft](https://github.com/Incendo/awesome-minecraft)
+3. 🎉 Merged PR [#110](https://github.com/EternalCodeTeam/EternalCore/pull/110) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. 💪 Opened PR [#110](https://github.com/EternalCodeTeam/EternalCore/pull/110) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. ❗️ Closed issue [#108](https://github.com/EternalCodeTeam/EternalCore/issues/108) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->
