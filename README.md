@@ -52,3 +52,6 @@ HTML                     12 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 4. 🎉 Merged PR [#112](https://github.com/EternalCodeTeam/EternalCore/pull/112) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 5. 🎉 Merged PR [#110](https://github.com/EternalCodeTeam/EternalCore/pull/110) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->
+
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
