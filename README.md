@@ -46,11 +46,11 @@ Gradle                   18 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 # Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#119](https://github.com/EternalCodeTeam/EternalCore/pull/119) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-2. ❌ Closed PR [#114](https://github.com/EternalCodeTeam/EternalCore/pull/114) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. ❌ Closed PR [#113](https://github.com/EternalCodeTeam/EternalCore/pull/113) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. 🎉 Merged PR [#112](https://github.com/EternalCodeTeam/EternalCore/pull/112) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. 🎉 Merged PR [#110](https://github.com/EternalCodeTeam/EternalCore/pull/110) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. ❗️ Closed issue [#81](https://github.com/EternalCodeTeam/EternalCore/issues/81) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. ❗️ Closed issue [#80](https://github.com/EternalCodeTeam/EternalCore/issues/80) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. ❗️ Closed issue [#74](https://github.com/EternalCodeTeam/EternalCore/issues/74) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+4. ❗️ Closed issue [#73](https://github.com/EternalCodeTeam/EternalCore/issues/73) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. ❗️ Closed issue [#69](https://github.com/EternalCodeTeam/EternalCore/issues/69) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->
 
 
