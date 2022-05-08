@@ -52,6 +52,3 @@ YAML                     23 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 4. ❗️ Closed issue [#73](https://github.com/EternalCodeTeam/EternalCore/issues/73) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 5. ❗️ Closed issue [#69](https://github.com/EternalCodeTeam/EternalCore/issues/69) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->
-
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
