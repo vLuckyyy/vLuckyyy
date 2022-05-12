@@ -1,7 +1,7 @@
 <h1>Hello, how can I help you? <img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/master/assets/wave.gif" width="30px" alt=""></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -41,7 +41,7 @@ Groovy                   9 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 12/05/2022 12:42:52 UTC
+ Last Updated on 12/05/2022 18:28:38 UTC
 <!--END_SECTION:waka-->
 
 # Recent Github Activity ⚡
