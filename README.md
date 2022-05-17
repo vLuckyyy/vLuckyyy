@@ -46,9 +46,9 @@ Gradle                   6 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 # Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1303](https://github.com/dzikoysk/reposilite/issues/1303) in [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
-2. 💪 Opened PR [#1](https://github.com/Vetther/VettherUtilities/pull/1) in [Vetther/VettherUtilities](https://github.com/Vetther/VettherUtilities)
-3. ❗️ Closed issue [#81](https://github.com/EternalCodeTeam/EternalCore/issues/81) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. ❗️ Closed issue [#80](https://github.com/EternalCodeTeam/EternalCore/issues/80) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. ❗️ Closed issue [#74](https://github.com/EternalCodeTeam/EternalCore/issues/74) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 🎉 Merged PR [#121](https://github.com/EternalCodeTeam/EternalCore/pull/121) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 🎉 Merged PR [#122](https://github.com/EternalCodeTeam/EternalCore/pull/122) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+3. ❗️ Opened issue [#1303](https://github.com/dzikoysk/reposilite/issues/1303) in [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)
+4. 💪 Opened PR [#1](https://github.com/Vetther/VettherUtilities/pull/1) in [Vetther/VettherUtilities](https://github.com/Vetther/VettherUtilities)
+5. ❗️ Closed issue [#81](https://github.com/EternalCodeTeam/EternalCore/issues/81) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->
