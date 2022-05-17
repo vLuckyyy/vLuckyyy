@@ -1,7 +1,7 @@
 <h1>Hello, how can I help you? <img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/master/assets/wave.gif" width="30px" alt=""></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%209%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -41,7 +41,7 @@ Properties               6 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 16/05/2022 18:06:59 UTC
+ Last Updated on 17/05/2022 00:21:43 UTC
 <!--END_SECTION:waka-->
 
 # Recent Github Activity ⚡
