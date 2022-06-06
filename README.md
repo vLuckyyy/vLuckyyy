@@ -46,8 +46,8 @@ JavaScript               1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 # Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/EternalCodeTeam/EternalCheck/issues/15) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
-2. 🎉 Merged PR [#121](https://github.com/EternalCodeTeam/EternalCore/pull/121) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. 🎉 Merged PR [#126](https://github.com/EternalCodeTeam/EternalCore/pull/126) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+2. 🗣 Commented on [#15](https://github.com/EternalCodeTeam/EternalCheck/issues/15) in [EternalCodeTeam/EternalCheck](https://github.com/EternalCodeTeam/EternalCheck)
 3. 🎉 Merged PR [#122](https://github.com/EternalCodeTeam/EternalCore/pull/122) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 4. 💪 Opened PR [#1](https://github.com/Vetther/VettherUtilities/pull/1) in [Vetther/VettherUtilities](https://github.com/Vetther/VettherUtilities)
 5. ❗️ Closed issue [#81](https://github.com/EternalCodeTeam/EternalCore/issues/81) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
