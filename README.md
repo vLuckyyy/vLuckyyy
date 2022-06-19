@@ -1,25 +1,25 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2016%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 751 Contributions in the Year 2022
+> 🏆 703 Contributions in the Year 2022
  > 
-> 📦 73.8 kB Used in GitHub's Storage 
+> 📦 12.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 21 Public Repositories 
  > 
-> 🔑 22 Private Repositories  
+> 🔑 5 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    38 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.41% 
-🌆 Daytime    161 commits    ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.9% 
-🌃 Evening    291 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.39% 
-🌙 Night      213 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.3%
+🌞 Morning    37 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.35% 
+🌆 Daytime    159 commits    ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.98% 
+🌃 Evening    283 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.9% 
+🌙 Night      213 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.78%
 
 ```
 
@@ -39,7 +39,7 @@ Kotlin                   11 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 19/06/2022 12:07:19 UTC
+ Last Updated on 19/06/2022 18:06:52 UTC
 <!--END_SECTION:waka-->
 
 # Recent Github Activity ⚡
