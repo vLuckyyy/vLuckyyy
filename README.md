@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2034%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -39,7 +39,7 @@ Groovy                   14 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 22/06/2022 18:07:53 UTC
+ Last Updated on 23/06/2022 00:18:58 UTC
 <!--END_SECTION:waka-->
 
 # Recent Github Activity ⚡
