@@ -40,9 +40,9 @@ No Activity Tracked This Week
 
 # Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/EternalCodeTeam/docs/pull/1) in [EternalCodeTeam/docs](https://github.com/EternalCodeTeam/docs)
-2. 🎉 Merged PR [#143](https://github.com/EternalCodeTeam/EternalCore/pull/143) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-3. 🎉 Merged PR [#145](https://github.com/EternalCodeTeam/EternalCore/pull/145) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-4. 🎉 Merged PR [#144](https://github.com/EternalCodeTeam/EternalCore/pull/144) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
-5. 🎉 Merged PR [#142](https://github.com/EternalCodeTeam/EternalCore/pull/142) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+1. ❗️ Closed issue [#2](https://github.com/EternalCodeTeam/ChatFormatter/issues/2) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+2. 🗣 Commented on [#2](https://github.com/EternalCodeTeam/ChatFormatter/issues/2) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+3. 🎉 Merged PR [#1](https://github.com/EternalCodeTeam/docs/pull/1) in [EternalCodeTeam/docs](https://github.com/EternalCodeTeam/docs)
+4. 🎉 Merged PR [#143](https://github.com/EternalCodeTeam/EternalCore/pull/143) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
+5. 🎉 Merged PR [#145](https://github.com/EternalCodeTeam/EternalCore/pull/145) in [EternalCodeTeam/EternalCore](https://github.com/EternalCodeTeam/EternalCore)
 <!--END_SECTION:activity-->
