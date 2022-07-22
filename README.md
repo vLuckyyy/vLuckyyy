@@ -40,9 +40,9 @@ No Activity Tracked This Week
 
 # Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/vLuckyyy/HelloWorldApplications/pull/3) in [vLuckyyy/HelloWorldApplications](https://github.com/vLuckyyy/HelloWorldApplications)
-2. 💪 Opened PR [#3](https://github.com/vLuckyyy/HelloWorldApplications/pull/3) in [vLuckyyy/HelloWorldApplications](https://github.com/vLuckyyy/HelloWorldApplications)
-3. ❗️ Closed issue [#2](https://github.com/EternalCodeTeam/ChatFormatter/issues/2) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-4. 🗣 Commented on [#2](https://github.com/EternalCodeTeam/ChatFormatter/issues/2) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
-5. 🎉 Merged PR [#1](https://github.com/EternalCodeTeam/docs/pull/1) in [EternalCodeTeam/docs](https://github.com/EternalCodeTeam/docs)
+1. 🎉 Merged PR [#2](https://github.com/EternalCodeTeam/docs/pull/2) in [EternalCodeTeam/docs](https://github.com/EternalCodeTeam/docs)
+2. 🎉 Merged PR [#3](https://github.com/vLuckyyy/HelloWorldApplications/pull/3) in [vLuckyyy/HelloWorldApplications](https://github.com/vLuckyyy/HelloWorldApplications)
+3. 💪 Opened PR [#3](https://github.com/vLuckyyy/HelloWorldApplications/pull/3) in [vLuckyyy/HelloWorldApplications](https://github.com/vLuckyyy/HelloWorldApplications)
+4. ❗️ Closed issue [#2](https://github.com/EternalCodeTeam/ChatFormatter/issues/2) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
+5. 🗣 Commented on [#2](https://github.com/EternalCodeTeam/ChatFormatter/issues/2) in [EternalCodeTeam/ChatFormatter](https://github.com/EternalCodeTeam/ChatFormatter)
 <!--END_SECTION:activity-->
